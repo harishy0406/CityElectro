@@ -6,7 +6,7 @@ import com.cityelectro.ui.AdminUI;
 import com.cityelectro.ui.CustomerUI;
 import java.util.Scanner;
 
-/*
+/**
  * Main class - Entry point for CityElectro Smart Electronics Store Management System
  */
 public class Main {
