@@ -19,7 +19,6 @@ public class Main {
         authService = new AuthenticationService();
         storeService = new StoreService();
         scanner = new Scanner(System.in);
-
         System.out.println("=========================================");
         System.out.println("   CITYELECTRO - SMART ELECTRONICS STORE");
         System.out.println("          Fast. Reliable. Digital.");
