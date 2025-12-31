@@ -1,4 +1,4 @@
-
+# CityElectro - Smart Electronics Store Management System
 
 ## Project Overview
 Fast. Reliable. Digital Electronics Shopping.
