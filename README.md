@@ -5,7 +5,7 @@ Fast. Reliable. Digital Electronics Shopping.
 
 A JAVA-based Electronics Store Management System for City Electronics, a retail electronics store located in Galle, Sri Lanka.
 
-## Features
+## Features 
 
 ### User Roles
 1. **Administrator**
